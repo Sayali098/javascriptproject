@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    gap: 50px;
+}
+
+
+
+.left{
+
+}
+.right{
+    
+    
+}
+#posts div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#msg{
+    color: red;
+}
