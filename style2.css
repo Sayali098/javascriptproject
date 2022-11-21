@@ -1,0 +1,62 @@
+#table-list{
+    text-align: center;
+    width: 100%;
+}
+td{
+    border:1px solid black;
+    text-align: left;
+    padding: 8px,15px;
+}
+
+tr:nth-child(even),table.list  thread>tr{
+
+}
+
+input[tyoe="text"], input[type="number"]
+{
+padding:12px,0px;
+width: 91%;
+display: inline-block;
+margin: 8px,0;
+border: 1px solid;
+border-radius: 4px;
+}
+
+input[type="submit"], input[type="reset"]
+{
+padding:6px,12px;
+width: 30%;
+background-color: bisque;
+display: inline-block;
+margin: 15px,0px,10px;
+border: none;
+border-radius: 30px;
+cursor: pointer;
+font-size: 1rem;
+}
+
+
+input[type="submit"]:hover{
+background-color: aquamarine;
+}
+
+input[type="reset"]:hover{
+    background-color: aquamarine;
+    }
+
+    button{
+        padding:6px,12px;
+width: 30%;
+background-color: bisque;
+display: inline-block;
+margin: 15px,0px,10px;
+border: none;
+border-radius: 30px;
+cursor: pointer;
+font-size:1rem;
+    }
+
+
+    button:hover{
+        background-color:aquamarine;  
+    }
